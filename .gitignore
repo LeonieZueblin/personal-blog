@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Vscode
+.vscode/
+
+# Python 
+venv/
+.env/
